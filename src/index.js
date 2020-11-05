@@ -85,4 +85,4 @@ const greetUser = pipeK(
 
 // ------------------ IMPURE ------------------
 
-greetUser(document).subscribe()
+greetUser(document).subscribe({})
